@@ -1,1 +1,1 @@
-# Projects
+# Python (functions, sklearn, bioinformatics)
